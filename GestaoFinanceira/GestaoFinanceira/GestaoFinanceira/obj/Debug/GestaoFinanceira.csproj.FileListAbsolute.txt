@@ -1,0 +1,109 @@
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.exe.config
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.exe
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.pdb
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\Bunifu_UI_v1.5.4.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.2.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.4.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.2.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.4.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.2.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.4.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MaterialSkin.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MetroFramework.Design.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MetroFramework.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MetroFramework.Fonts.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MySql.Data.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\Google.Protobuf.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.2.xml
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.4.xml
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.2.xml
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.4.xml
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MySql.Data.xml
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.frmPrincipal.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Properties.Resources.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastro.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroCliente.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroUsuario.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCalculaJurosSimples.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmFormaPagto.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorio.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioFormaPagto.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioUsuario.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.GenerateResource.cache
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.exe.licenses
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.CoreCompileInputs.cache
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.CopyComplete
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.exe
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.pdb
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csprojAssemblyReference.cache
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioCliente.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.frmLogin.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroEmpresa.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmImpressao.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Relatorio.frmImpresaoCadastroUsuario.resources
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.Shared.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\FlashControlV71.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\ShockwaveFlashObjects.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\bin\Debug\stdole.dll
+C:\Programacao C# Desktop\gestaoFinanceira\projeto gestao financeira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Relatorio.frmImpressaoCadastroCliente.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.exe.config
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.exe
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\GestaoFinanceira.pdb
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\Google.Protobuf.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\stdole.dll
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Command.4.xml
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.2.xml
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\C1.Win.C1Input.4.xml
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\bin\Debug\MySql.Data.xml
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.frmLogin.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.frmPrincipal.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Properties.Resources.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Relatorio.frmImpresaoCadastroUsuario.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Relatorio.frmImpressaoCadastroCliente.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastro.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroCliente.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroEmpresa.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCadastroUsuario.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmCalculaJurosSimples.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmFormaPagto.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmImpressao.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorio.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioCliente.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioFormaPagto.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.Visual.frmRelatorioUsuario.resources
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.exe.licenses
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFi.E18EC78C.Up2Date
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.exe
+C:\Users\Windows\Desktop\Projeto de Estágio\GestaoFinanceira\GestaoFinanceira\GestaoFinanceira\obj\Debug\GestaoFinanceira.pdb
